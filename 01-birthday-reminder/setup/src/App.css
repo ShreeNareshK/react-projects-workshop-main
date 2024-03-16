@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+section.container {
+  width: fit-content;
+  height: auto;
+  border-radius: 15px;
+}

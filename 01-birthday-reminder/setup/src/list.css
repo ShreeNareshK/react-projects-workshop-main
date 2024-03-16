@@ -1,0 +1,13 @@
+.person {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  /* justify-content: center; */
+}
+
+.person img {
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Maintain aspect ratio */
+}
+h3 {
+  margin-top: 1rem;
+}
